@@ -9,6 +9,9 @@
 # dependencies
 /node_modules
 
+# environment
+/src/environments/environment
+
 # IDEs and editors
 /.idea
 .project
